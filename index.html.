@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Mis frutas favoritas</title>
+
+</head>
+
+<body>
+
+    <h1>Mis frutas favoritas</h1>
+
+    <h2>Lista de frutas</h2>
+
+    <ul>
+
+        <li>Manzana</li>
+
+        <li>Banano</li>
+
+        <li>Fresa</li>
+
+    </ul>
+
+    <h2>Tabla de frutas</h2>
+
+    <table border="1">
+
+        <tr>
+
+            <th>Fruta</th>
+
+            <th>Color</th>
+
+        </tr>
+
+        <tr>
+
+            <td>Manzana</td>
+
+            <td>Rojo</td>
+
+        </tr>
+
+        <tr>
+
+            <td>Banano</td>
+
+            <td>Amarillo</td>
+
+        </tr>
+
+        <tr>
+
+            <td>Fresa</td>
+
+            <td>Rojo</td>
+
+        </tr>
+
+    </table>
+
+</body>
+
+</html>
